@@ -1,0 +1,12 @@
+{
+  "projectName": "ritikchourepersonalportfolio",
+  "meta": {
+    "starter": "node-free-express",
+    "type": "backend"
+  },
+  "hash": "5778e7d0",
+  "backend": {
+    "platform": "node12"
+  },
+  "domain": "ritikchoure-portfolio.mdbgo.io"
+}
